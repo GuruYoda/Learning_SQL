@@ -1,4 +1,4 @@
-This project is an attempt to leanrn SQL basics
+This project is an attempt to learn SQL basics
 
 I have also implemented SQL using SQLite Python library
 to solve some problems that were intresting for me
